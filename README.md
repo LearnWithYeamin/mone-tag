@@ -61,15 +61,15 @@ android:name=".App"
 
 ## Step 5: Show Interstitial Ads <br>
 ```java
-                // Write this code inside the click event.
-                App.interstitialLoader.doOnNextAvailable(result -> {
-                    if (result != null) {
-                        NotixInterstitial.Companion.show(result);
-                    }
-                    return Unit.INSTANCE;
-                });
+// Write this code inside the click event.
+App.interstitialLoader.doOnNextAvailable(result -> {
+    if (result != null) {
+        NotixInterstitial.Companion.show(result);
+    }
+    return Unit.INSTANCE;
+});
 
-                //ads কেটে দেওয়ার পর কী ঘটবে সেই কোড এখানে লিখুন...
+//ads কেটে দেওয়ার পর কী ঘটবে সেই কোড এখানে লিখুন...
 ```
 <img src="https://raw.githubusercontent.com/i-rin-eam/mone-tag/main/images/int-ads.png" alt="inter-ads1.png">
 
