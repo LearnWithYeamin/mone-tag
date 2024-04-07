@@ -2,14 +2,12 @@
   <a href="https://github.com/i-rin-eam/meta-ads">
     <img src="https://raw.githubusercontent.com/i-rin-eam/mone-tag/main/images/mone-tag-img.jpg" alt="Logo" width="100" height="100">
   </a> 
-  <br>
+<h1 align='center'>Implement MoneTag Ads</h1>
 <h3 align='center'>
     <a href="https://www.youtube.com/@CodeCraftArena">Watch Video</a> for Implementing the MoneTag Ads Library 
     or Visit Official <a href="https://docs.inappi.co/">Documentation</a> for more details.
 </h3>
-
 </p>
-<h1 align='center'>Implement MoneTag Ads</h1>
 
 ## Step 1: Add the dependency in `build.gradle (Module :app)`.
 ```gradle
