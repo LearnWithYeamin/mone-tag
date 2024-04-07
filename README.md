@@ -36,7 +36,7 @@ android:hardwareAccelerated="true"
 ```
 <img src="https://raw.githubusercontent.com/i-rin-eam/meta-ads/main/app/src/main/res/drawable/android-manifest-xml.jpeg" alt="android-manifest-xml.jpeg">
 
-## Step 3: Create a Java Class (ex. `Appr.java`) for Initialize Ads.
+## Step 3: Create a Java Class (ex. `App.java`) for Initialize Ads.
 ```java
 public class App extends Application {
 
