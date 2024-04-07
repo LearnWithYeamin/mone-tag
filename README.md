@@ -4,7 +4,7 @@
   </a> 
 <h1 align='center'>Implement MoneTag Ads</h1>
 <h3 align='center'>
-    <a href="https://www.youtube.com/@CodeCraftArena">Watch Video</a> for Implementing the MoneTag Ads Library 
+    <a href="https://www.youtube.com/watch?v=Sgkp46GS6rk">Watch Video</a> for Implementing the MoneTag Ads Library 
     or Visit Official <a href="https://docs.inappi.co/">Documentation</a> for more details.
 </h3>
 </p>
@@ -68,6 +68,8 @@ android:name=".App"
                     }
                     return Unit.INSTANCE;
                 });
+
+                //ads কেটে দেওয়ার পর কী ঘটবে সেই কোড এখানে লিখুন...
 ```
 <img src="https://raw.githubusercontent.com/i-rin-eam/mone-tag/main/images/int-ads.png" alt="inter-ads1.png">
 
