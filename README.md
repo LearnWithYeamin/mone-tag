@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/i-rin-eam/mone-tag/main/images/mone-tag-img.jpg" alt="Logo" width="100" height="100">
   </a> 
   <br>
-  <h3 align='center'> <a href="https://www.youtube.com/@CodeCraftArena">Watch Video</a> for Implementing the MoneTag Ads Library or Visit Official <a href="https://www.youtube.com/@CodeCraftArena">Documentation</a> for more details.</h3>
+  <h3 align='center'> <a href="https://www.youtube.com/@CodeCraftArena">Watch Video</a> for Implementing the MoneTag Ads Library or Visit Official <a href="https://docs.inappi.co/">Documentation</a> for more details.</h3>
 </p>
 <h1 align='center'>Implement MoneTag Ads</h1>
 
