@@ -4,8 +4,8 @@
   </a> 
   <br>
 <h3 align='center'>
-    <a href="https://www.youtube.com/@CodeCraftArena" onclick="window.open('https://www.youtube.com/@CodeCraftArena', '_blank')">Watch Video</a> for Implementing the MoneTag Ads Library 
-    or Visit Official <a href="https://docs.inappi.co/" onclick="window.open('https://docs.inappi.co/', '_blank')">Documentation</a> for more details.
+    <a href="https://www.youtube.com/@CodeCraftArena">Watch Video</a> for Implementing the MoneTag Ads Library 
+    or Visit Official <a href="https://docs.inappi.co/">Documentation</a> for more details.
 </h3>
 
 </p>
