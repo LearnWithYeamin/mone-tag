@@ -36,6 +36,11 @@ android:hardwareAccelerated="true"
 
 ## Step 3: Create a Java Class (ex. `App.java`) for Initialize Ads.
 ```java
+import android.app.Application;
+
+import co.notix.interstitial.InterstitialLoader;
+import co.notix.interstitial.NotixInterstitial;
+
 public class App extends Application {
 
     // Declare variable
@@ -46,7 +51,7 @@ public class App extends Application {
         super.onCreate();
         // Load Interstitial Ads
         /* ... */
-        interstitialLoader = NotixInterstitial.Companion.createLoader(/* your Zone ID */);
+        interstitialLoader = NotixInterstitial.Companion.createLoader(7322252);
         interstitialLoader.startLoading();
     }
 }
