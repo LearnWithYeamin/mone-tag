@@ -32,7 +32,7 @@ implementation 'co.notix:android-sdk:0.1.+'
 ```xml
 android:hardwareAccelerated="true"
 ```
-<img src="https://raw.githubusercontent.com/i-rin-eam/meta-ads/main/app/src/main/res/drawable/android-manifest-xml.jpeg" alt="android-manifest-xml.jpeg">
+<img src="https://raw.githubusercontent.com/i-rin-eam/mone-tag/main/images/android-manifest-xml.jpeg" alt="android-manifest-xml.jpeg">
 
 ## Step 3: Create a Java Class (ex. `App.java`) for Initialize Ads.
 ```java
